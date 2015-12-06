@@ -1,0 +1,1 @@
+for %%f in (*.nt) do path/to/php.exe path/to/import_script.php %%f

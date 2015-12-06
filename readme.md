@@ -1,0 +1,1 @@
+﻿Various scraps of demo/teaching code for PHP.
